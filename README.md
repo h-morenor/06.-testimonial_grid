@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/h-morenor/5.-3-column-preview-card-component.git
+- Solution URL: https://h-morenor.github.io/06.-testimonial_grid/
 
 ### Built with
 
